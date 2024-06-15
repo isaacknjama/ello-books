@@ -11,9 +11,11 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.592.0",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.19",
+    "aws-sdk": "^2.1637.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
